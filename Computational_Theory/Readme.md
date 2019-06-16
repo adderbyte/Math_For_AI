@@ -1,10 +1,10 @@
 ------------------
-### Logic. Theory of Computation
+###### Logic. Theory of Computation.
 ----------------
 
 
 ------------------
-### Books
+#### Books
 ----------------
 
 [Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/ref=sr_1_1?keywords=Theory+of+computation&qid=1560707698&s=gateway&sr=8-1) By `Michael Sipser`
