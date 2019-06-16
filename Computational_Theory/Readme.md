@@ -1,4 +1,6 @@
-Logic. Theory of Computation
+------------------
+### Logic. Theory of Computation
+----------------
 
 
 ------------------
