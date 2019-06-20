@@ -1,5 +1,5 @@
 ------------------
-##### Math_For_AI
+###### Math For AI
 -------------------
 
 Mathematical Materials for AI/Machine Learning studies
