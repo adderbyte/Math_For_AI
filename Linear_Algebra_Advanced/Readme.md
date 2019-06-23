@@ -1,4 +1,4 @@
-* Advanced Linear Algebra 
+Advanced Linear Algebra 
 
 Reminder
 
