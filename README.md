@@ -12,3 +12,7 @@ Mathematical Materials for AI/Machine Learning studies
 
 [Mathematics and Physics Resource List](http://math.ucr.edu/home/baez/books.html#statistical_mechanics)
 
+
+------------------
+###### Proposed Study Path
+---------------------
