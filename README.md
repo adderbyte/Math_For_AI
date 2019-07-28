@@ -14,5 +14,5 @@ Mathematical Materials for AI/Machine Learning studies
 
 
 ------------------
-###### Proposed Reading Map Outline
+###### Proposed Reading Map Outline (FAST TRACK
 ---------------------
