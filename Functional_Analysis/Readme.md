@@ -8,3 +8,8 @@
 
 [A course in Multivariate calculus and analysis](https://www.amazon.com/dp/1441916202/ref=rdr_ext_sb_ti_hist_2)
 
+
+* Metric Geometry
+
+[A course in Metric Geometry](https://books.google.com.tr/books?id=dRmIAwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
