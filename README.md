@@ -14,6 +14,8 @@ Mathematical Materials for AI/Machine Learning studies
 
 [Khan Academy](https://www.khanacademy.org/signup)
 
+[ML Resources and Blog](https://sgfin.github.io/learning-resources/#info)
+
 ------------------
 ###### Proposed Reading Map Outline (FAST TRACK)
 ---------------------
