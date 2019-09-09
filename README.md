@@ -19,6 +19,7 @@ Mathematical Materials for AI/Machine Learning studies
 ---------------------
 
 [ML Resources and Blog](https://sgfin.github.io/learning-resources/#info)
+
 [Theory of Deep Learning Stanford](https://stats385.github.io/lecture_slides)
 
 ------------------
