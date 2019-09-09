@@ -14,7 +14,12 @@ Mathematical Materials for AI/Machine Learning studies
 
 [Khan Academy](https://www.khanacademy.org/signup)
 
+------------------
+###### ML Theory Resource
+---------------------
+
 [ML Resources and Blog](https://sgfin.github.io/learning-resources/#info)
+[Theory of Deep Learning Stanford](https://stats385.github.io/lecture_slides)
 
 ------------------
 ###### Proposed Reading Map Outline (FAST TRACK)
