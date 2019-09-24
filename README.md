@@ -22,6 +22,9 @@ Mathematical Materials for AI/Machine Learning studies
 
 [A probabilistic theory of pattern recognition](https://www.amazon.com/Probabilistic-Recognition-Stochastic-Modelling-Probability/dp/0387946187/ref=pd_rhf_dp_p_img_10?_encoding=UTF8&psc=1&refRID=QD3AHC08WQH6ZMFTNXGM)
 
+[Theory of Deep Learning Illinois](http://mjt.cs.illinois.edu/courses/dlt-f19/)
+
+
 
 ------------------
 ###### Proposed Reading Map Outline
