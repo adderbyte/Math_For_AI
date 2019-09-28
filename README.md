@@ -5,7 +5,7 @@
 Mathematical Materials for AI/Machine Learning studies
 
 ------------------
-###### Mathematics  And Physics Materials (Pre-Calculus studies)
+###### Mathematics  And Physics Materials (Pre-Calculus materials)
 ---------------------
 
 [Calculus I,II,III-OpenStax-Rice-University](https://cnx.org/)
