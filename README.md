@@ -13,7 +13,7 @@ Mathematical Materials for AI/Machine Learning studies
 [Mathematics and Physics Resource List](http://math.ucr.edu/home/baez/books.html#statistical_mechanics)
 
 ------------------
-###### ML Theory Resource
+###### ML Theory Resources
 ---------------------
 
 [ML Resources and Blog](https://sgfin.github.io/learning-resources/#info)
