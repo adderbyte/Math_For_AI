@@ -24,7 +24,7 @@ Mathematical Materials for AI/Machine Learning studies
 
 [Theory of Deep Learning Illinois](http://mjt.cs.illinois.edu/courses/dlt-f19/)
 
-
+[Statistical Mechanics](https://www.coursera.org/learn/statistical-mechanics)
 
 ------------------
 ###### Proposed Reading Map Outline
