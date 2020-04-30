@@ -12,6 +12,9 @@ Mathematical Materials for AI/Machine Learning studies
 
 [Mathematics and Physics Resource List](http://math.ucr.edu/home/baez/books.html#statistical_mechanics)
 
+[REAL NOT COMPLEX: Curated list of math lecture notes](https://realnotcomplex.com)
+
+
 ------------------
 ###### ML Theory Resources
 ---------------------
