@@ -29,6 +29,11 @@
 
 [High Dimensional Statistics (MIT)](https://arxiv.org/pdf/2310.19244)
 
+[ High Dim Stats - Non-asymptotic approach Prof Martin  ](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
+
+
+[Solutions to Exercises in Prof Marin's book - high dim stats (Good for practice!) ](https://high-dimensional-statistics.github.io/)
+
 
 ### Others
 [Statistics, Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=cm_cr_arp_d_product_top?ie=UTF8)
