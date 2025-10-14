@@ -27,9 +27,7 @@
 
 [High Dimensional Probability ](https://web.math.princeton.edu/~rvan/APC550.pdf)
 
-[High Dimensional Statistics ](https://arxiv.org/pdf/2310.19244)
-
-
+[High Dimensional Statistics (MIT)](https://arxiv.org/pdf/2310.19244)
 
 
 ### Others
