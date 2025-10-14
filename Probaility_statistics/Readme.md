@@ -25,7 +25,7 @@
 
 ### High Dimensional ptobability and statistics 
 
-[High Dimensional Probability ](https://web.math.princeton.edu/~rvan/APC550.pdf)
+[High Dimensional Probability (Princeton) ](https://web.math.princeton.edu/~rvan/APC550.pdf)
 
 [High Dimensional Statistics (MIT)](https://arxiv.org/pdf/2310.19244)
 
