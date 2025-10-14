@@ -15,7 +15,7 @@
 
 ### Foundations
 
-[Probability: Theory and Practive (Durrett)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
+[Probability: Theory and Practice (Durrett)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
 
 [Notes for graduate course in Asymptotics for statisticticians](https://sites.math.rutgers.edu/~sg1108/asymp1.pdf)
 
@@ -26,6 +26,9 @@
 ### High Dimensional ptobability and statistics 
 
 [High Dimensional Probability ](https://web.math.princeton.edu/~rvan/APC550.pdf)
+
+[High Dimensional Statistics ](https://arxiv.org/pdf/2310.19244)
+
 
 
 
